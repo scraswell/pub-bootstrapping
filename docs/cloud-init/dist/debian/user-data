@@ -1,0 +1,52 @@
+Content-Type: multipart/mixed; boundary="===============5129402723725578359=="
+MIME-Version: 1.0
+
+--===============5129402723725578359==
+Content-Type: text/cloud-config; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="./cloud-init/debian/user-data.yaml"
+
+I2Nsb3VkLWNvbmZpZwo=
+
+--===============5129402723725578359==
+Content-Type: text/x-shellscript-per-boot; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="./cloud-init/debian/x-shellscript-per-boot.sh"
+
+
+--===============5129402723725578359==
+Content-Type: text/x-shellscript-per-instance; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="./cloud-init/debian/x-shellscript-per-instance.sh"
+
+
+--===============5129402723725578359==
+Content-Type: text/x-shellscript-per-once; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="./cloud-init/debian/x-shellscript-per-once.sh"
+
+IyEvYmluL2Jhc2gKU0NSSVBUX0RJUj0kKCBjZCAtLSAiJCggZGlybmFtZSAtLSAiJHtCQVNIX1NP
+VVJDRVswXX0iICkiICY+IC9kZXYvbnVsbCAmJiBwd2QgKQoKZnVuY3Rpb24gZ2V0X2tlcm5lbF9w
+YXJhbV92YWx1ZV9hc19qc29uKCkgewogICAgcGFyYW1fbmFtZT0kezF9CiAgICBzb3VyY2VfZmls
+ZT0kezJ9CgogICAgaWYgW1sgLXogIiR7c291cmNlX2ZpbGV9IiBdXQogICAgdGhlbgogICAgICAg
+IHNvdXJjZV9maWxlPS9wcm9jL2NtZGxpbmUKICAgIGZpCgogICAgaWYgW1sgLXogIiR7cGFyYW1f
+bmFtZX0iIF1dCiAgICB0aGVuCiAgICAgICAgZWNobyAie30iCiAgICBlbHNlCiAgICAgICAgUEFS
+U0VEPSQoZ3JlcCAtUG8gIiR7cGFyYW1fbmFtZX09XHM/eyhbXn1dKyl9IiAke3NvdXJjZV9maWxl
+fSB8IHNlZCAncy9cXC8vZycgMj4vZGV2L251bGwpCiAgICAgICAgaWYgW1sgLXogIiR7UEFSU0VE
+fSIgXV0KICAgICAgICB0aGVuCiAgICAgICAgICAgIGVjaG8gInt9IgogICAgICAgIGVsc2UKICAg
+ICAgICAgICAgVkFMVUU9JChlY2hvICIke1BBUlNFRH0iIHwgYXdrIC1GPSAne3ByaW50ICQyfScp
+CgogICAgICAgICAgICBlY2hvICIke1ZBTFVFfSIgfCBqcSAyPiYxIHx8IGVjaG8gInt9IgogICAg
+ICAgIGZpCiAgICBmaQp9CgojIyBnZXQgcmVmbGVjdG9yCmVjaG8gLWUgIlxua2V5c2VydmVyLW9w
+dGlvbnMgYXV0by1rZXktcmV0cmlldmUiID4gL2V0Yy9wYWNtYW4uZC9nbnVwZy9ncGcuY29uZgpw
+YWNtYW4gLS1ub2NvbmZpcm0gLVN5IHx8IGV4aXQgMQpwYWNtYW4gLS1ub2NvbmZpcm0gLVMgZ2l0
+IGpxIHx8IGV4aXQgMQoKTElOVVhfRElTVFJJQlVUSU9OPSQoZ2V0X2tlcm5lbF9wYXJhbV92YWx1
+ZV9hc19qc29uIGxpbnV4X2Rpc3RyaWJ1dGlvbiB8IGpxIC1yICcubmFtZScpCgppZiBbWyAteiAi
+JHtMSU5VWF9ESVNUUklCVVRJT059IiBdXQp0aGVuCiAgICBMSU5VWF9ESVNUUklCVVRJT049ImRl
+YmlhbiIKZmkKCg==
+
+--===============5129402723725578359==--
+
