@@ -11,3 +11,10 @@ Add the following kernel parameters to a cloud-init enabled boot disc:
 ```
 ds=nocloud-net;s=https://scraswell.github.io/pub-bootstrapping/cloud-init/dist/debian/
 ```
+
+## in.tftpd logging
+From the prompt in the container:
+```
+busybox syslogd
+tail -f /var/log/messages
+```
