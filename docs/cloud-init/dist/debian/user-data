@@ -1,7 +1,7 @@
-Content-Type: multipart/mixed; boundary="===============8396966948150145132=="
+Content-Type: multipart/mixed; boundary="===============8101098566307864078=="
 MIME-Version: 1.0
 
---===============8396966948150145132==
+--===============8101098566307864078==
 Content-Type: text/cloud-config; charset="utf-8"
 MIME-Version: 1.0
 Content-Transfer-Encoding: base64
@@ -9,21 +9,21 @@ Content-Disposition: attachment; filename="./cloud-init/debian/user-data.yaml"
 
 I2Nsb3VkLWNvbmZpZwo=
 
---===============8396966948150145132==
+--===============8101098566307864078==
 Content-Type: text/x-shellscript-per-boot; charset="utf-8"
 MIME-Version: 1.0
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="./cloud-init/debian/x-shellscript-per-boot.sh"
 
 
---===============8396966948150145132==
+--===============8101098566307864078==
 Content-Type: text/x-shellscript-per-instance; charset="utf-8"
 MIME-Version: 1.0
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="./cloud-init/debian/x-shellscript-per-instance.sh"
 
 
---===============8396966948150145132==
+--===============8101098566307864078==
 Content-Type: text/x-shellscript-per-once; charset="utf-8"
 MIME-Version: 1.0
 Content-Transfer-Encoding: base64
@@ -111,8 +111,8 @@ NHpXbGQ0YzFGRlRYZE5hMXBUVG14V1VsUlZVVEpWWjBWRFFYZFJSZ290TFMwdExVVk9SQ0JQVUVW
 T1UxTklJRkJTU1ZaQlZFVWdTMFZaTFMwdExTMEsiIHwgYmFzZTY0IC1kID4gL3RtcC9wdWJfZGVw
 bG95X2tleQpjaG1vZCAwNjAwIC90bXAvcHViX2RlcGxveV9rZXkKCmdpdCBjbG9uZSBnaXRAZ2l0
 aHViLmNvbTpzY3Jhc3dlbGwvYm9vdHN0cmFwcGluZy5naXQgJHtTQ1JJUFRfRElSfS9ib290c3Ry
-YXBwaW5nCgpwdXNoZCAke1NDUklQVF9ESVJ9L2Jvb3RzdHJhcHBpbmcKcHJvdmlzaW9uaW5nL2Rl
-Ymlhbl9zdGFnZTEuc2gKcG9wZAo=
+YXBwaW5nCgpwdXNoZCAke1NDUklQVF9ESVJ9L2Jvb3RzdHJhcHBpbmcKcHJvdmlzaW9uaW5nL2lu
+c3RhbGxfc3RhZ2UxLnNoICIke0xJTlVYX0RJU1RSSUJVVElPTn0iCnBvcGQK
 
---===============8396966948150145132==--
+--===============8101098566307864078==--
 
